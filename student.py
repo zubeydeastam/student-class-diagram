@@ -24,7 +24,7 @@ class Student:
 
 
 # Test
-student1 = Student("20243086", "Zubeyde Astam", "Computer Engineering", 3.5)
+student1 = Student("20243086", "Zubeyde Astam", "Software Engineering", 3.5)
 student1.show_info()
 
 student1.honor_status()
